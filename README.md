@@ -10,3 +10,9 @@
 - How to Run the Project
 - Repository Structure
 - License
+
+# Technologies Used
+-  Python: Data analysis and processing
+-  Pandas: For data manipulation and analysis
+-  Seaborn & Matplotlib: For creating visualizations
+-  Jupyter Notebook: For presenting the analysis interactively
