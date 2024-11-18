@@ -33,7 +33,7 @@ The dataset originates from a 10-minute online survey completed by 25,090 profes
 
 The dataset provides insights into the tech industry, focusing on gender-based data. It includes details on participants' degree specializations, job roles, and coding experience, offering a comparative perspective between men and women in technology. 
 
-The dataset provides insights into the tech industry, focusing on gender-based data. It includes details on participants' degree specializations, job roles, and coding experience, offering a comparative perspective between men and women in technology.
+
 ---
 ##  Observations from data analysis -
 - ### Degree Focus
@@ -73,7 +73,7 @@ jupyter notebook
 ---
 
 ## **License**
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project, but please give appropriate credit to the original author.
+This project is licensed under the **Apache License**. Feel free to use, modify, and distribute this project, but please give appropriate credit to the original author.
 
 
 ---
