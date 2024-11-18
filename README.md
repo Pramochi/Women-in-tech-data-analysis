@@ -1,5 +1,7 @@
 # Women-in-tech-data-analysis
+
 Analyzing Gender Disparities and Trends in the Tech Industry to Promote Inclusivity
+
 ![image](https://github.com/user-attachments/assets/664651ce-8f2e-4e29-9a42-220b683daeee)
 
 ## Table of Contents
